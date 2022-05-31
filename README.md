@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @conmcdon721.
 - 👀 I’m interested in learning as much as I can about all types of coding!
-- 🌱 I’m currently learning about web development.
+- 🌱 I’m currently learning about Java.
 - 📫 Feel free to shoot me a message!
 
 <!---
